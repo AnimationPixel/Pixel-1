@@ -17,6 +17,7 @@ El objetivo es construir una plataforma independiente, con sus propias tecnolog√
 - **Formato nativo:** compatibilidad experimental con ejecutables `.px` y `.pixel`.
 - **KAPI:** interfaz propia para las aplicaciones.
 - **Juegos:** incluye proyectos creados para el ecosistema Pixel 1.
+<img width="909" height="607" alt="2026_11_06_18_14_42_screenshot" src="https://github.com/user-attachments/assets/33b09cbb-607d-4619-b7ad-e5340bf1899f" />
 
 ## Juegos incluidos
 
@@ -25,6 +26,7 @@ El objetivo es construir una plataforma independiente, con sus propias tecnolog√
 - Kodama
 - √ìrbita Cero
 - Pixel Royale
+<img width="1021" height="761" alt="2026_11_06_18_14_57_screenshot" src="https://github.com/user-attachments/assets/df0c10f5-17c7-47ef-aeb1-2d49e3875fcb" />
 
 ## Arquitectura
 
