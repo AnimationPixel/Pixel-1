@@ -55,6 +55,7 @@ Consulta el archivo `LICENSE` para conocer las condiciones completas.
 
 Proyecto de software independiente y de código abierto.
 
----
+Animation Pixel web: https://animationpixel.netlify.app/
+
 
 *Pixel 1 — Building an independent ecosystem.*
