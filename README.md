@@ -1,4 +1,4 @@
-<img width="330" height="330" alt="Logo Animation Pixel" src="https://github.com/user-attachments/assets/c08c21d7-392a-4972-af31-7812d2102de5" />
+<img width="150" height="150" alt="Logo Animation Pixel" src="https://github.com/user-attachments/assets/c08c21d7-392a-4972-af31-7812d2102de5" />
 
 **Un sistema operativo independiente desarrollado desde cero por Animation Pixel.**
 
