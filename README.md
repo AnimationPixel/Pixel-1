@@ -26,7 +26,7 @@ El objetivo es construir una plataforma independiente, con sus propias tecnolog√
 - Kodama
 - √ìrbita Cero
 - Pixel Royale
-<img width="1021" height="761" alt="2026_11_06_18_14_57_screenshot" src="https://github.com/user-attachments/assets/df0c10f5-17c7-47ef-aeb1-2d49e3875fcb" />
+<img width="877" height="611" alt="2026_11_06_18_14_57_screenshot" src="https://github.com/user-attachments/assets/df0c10f5-17c7-47ef-aeb1-2d49e3875fcb" />
 
 ## Arquitectura
 
